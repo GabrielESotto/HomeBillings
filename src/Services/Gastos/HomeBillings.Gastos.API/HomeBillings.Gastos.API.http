@@ -1,0 +1,6 @@
+@HomeBillings.Gastos.API_HostAddress = http://localhost:5294
+
+GET {{HomeBillings.Gastos.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
